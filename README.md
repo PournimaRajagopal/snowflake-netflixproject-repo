@@ -23,5 +23,8 @@ This project focuses on:
   - `Best Movies Netflix.csv`
   - `Best Shows Netflix.csv`
   - `Best Show by Year Netflix.csv`
+  - `Best Movie by Year Netflix.csv`
+  - `raw_credits.csv`
+  - `raw_titles.csv`
 
 ---
