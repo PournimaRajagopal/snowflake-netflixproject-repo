@@ -28,3 +28,6 @@ This project focuses on:
   - `raw_titles.csv`
 
 ---
+
+![image](https://github.com/user-attachments/assets/e9d53142-59c0-4872-8d9e-756d30bb0bac)
+
